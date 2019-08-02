@@ -1,0 +1,11 @@
+body{
+	background:pink;
+}
+.container{
+	background:#C9A6BC;
+	width:50%;
+	margin:25%;
+	padding:2%;
+	border-radius:5%;
+	box-shadow:4px 4px 4px 4px purple;
+}
